@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo img{
+    position: absolute;
+    height: 7rem;
+    padding: 0% 50%;
+}
